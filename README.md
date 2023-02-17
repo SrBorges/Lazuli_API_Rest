@@ -75,6 +75,11 @@ Caso você não informe nem um valor ou deixe em branco será retornado o códig
 
 ![Captura de tela de 2023-02-17 18-42-04](https://user-images.githubusercontent.com/96485637/219808903-ec080a5e-5923-460b-a963-92ae963db74b.png)
 
+# criptografia
+
+* https://bcrypt-generator.com/
+
+
 # Requisitos
 
 - Spring Boot DevTools
